@@ -1,0 +1,56 @@
+{
+    "id": 2,
+    "name": "Red grapes.jpg",
+    "price": 5,
+    "image":"image/2,png"
+}
+{
+    "id": 3,
+    "name": "banana",
+    "price": 5,
+    "image":"image/2,png"
+}
+{
+    "id": 4,
+    "name": "apple",
+    "price": 5,
+    "image":"image/2,png"
+}
+{
+    "id": 5,
+    "name": " strawberries",
+    "price": 5,
+    "image":"image/2,png"
+}
+
+{
+    "id": 6,
+    "name": "tangerine",
+    "price": 5,
+    "image":"image/2,png"
+}
+{
+    "id": 7,
+    "name": "blackberry ",
+    "price": 5,
+    "image":"image/2,png"
+}
+
+{
+    "id": 8,
+    "name": "pineapple ",
+    "price": 5,
+    "image":"image/2,png"
+} 
+{
+    "id": 9,
+    "name": "mango ",
+    "price": 5,
+    "image":"image/2,png"
+} 
+{
+    "id": 10,
+    "name": " pear",
+    "price": 5,
+    "image":"image/2,png"
+}
